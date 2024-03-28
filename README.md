@@ -14,4 +14,4 @@ The scoring system encourages you to experiment with different strategies to opt
 
 This game was developed by a team of 4--@SebastianMarino28, @jogara2001, @BBiv, and I @thejoryle, for a university game design class. It was developed iteratively in about 5 weeks in an agile environment.
 
-If you're interesting in playing this game, we have a web build live which can be found at: TBD
+If you're interesting in playing this game, we have a web build live which can be found at: [https://bayker.itch.io/straight-a-shooter]
