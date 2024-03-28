@@ -1,6 +1,6 @@
 Welcome to my repo for my game entitled "Straight A Shooter!"
 
-In Straight A Shooter, you play as a college student with their final exam just around the corner. Study and complete assignments to prepare for your final to achieve a high grade in the end. (I know what you're thinking, and there are no guns or humans in this game other than the player).
+In Straight A Shooter, you play as a college student with their final exam just around the corner. Study and complete assignments to prepare for your final to achieve a high grade in the end. (Disclaimer: there are no guns or humans in this game other than the player).
 
 This game is a top-down shooter featuring:
 * a procedurally generated map 
